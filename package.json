@@ -1,0 +1,11 @@
+{
+  "name": "video-chatter",
+  "version": "1.0.0",
+  "description": "Video Chatting Service With Node Js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Htet Arkar Hlaing",
+  "license": "ISC"
+}
